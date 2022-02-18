@@ -30,7 +30,13 @@ SIMPLICITY - we built on Ethereum and support the ERC721 format. It can shown in
 
 
 
-CUSTOMIZE - We support Image + Video + Text in the obituary NFT to provide fully customizable product for users. It can be displayed digitally in the physical service or in Metaverse at the discretion of creator. In condition of error, the creator can send NFT to zero address to burn it and recreate a right one. 
+CUSTOMIZE - We support Image + Video + Text in the obituary NFT to provide fully customizable product for users. It can be displayed digitally in the physical service or in Metaverse at the discretion of creator. In condition of error, the creator can burn NFT and recreate a right one. 
+
+
+
+Team: 
+
+We are a group of veteran in internet and crypto industry, author of DeFi books and experts in smart contract. 
 
 
 
